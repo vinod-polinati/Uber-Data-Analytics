@@ -1,4 +1,4 @@
-# Uber Data Analytics | Modern Data Engineering GCP Project
+# Uber Data Analytics | Data Engineering GCP Project
 
 This project uses GCP Storage, Python, Compute Instance, Mage Data Pipeline Tool, BigQuery, and Looker Studio for performing data analytics on Uber data.
 
@@ -17,7 +17,7 @@ This project uses GCP Storage, Python, Compute Instance, Mage Data Pipeline Tool
 **Modern Data Pipeline Tool:** [Mage](https://www.mage.ai/)
 
 ## Dataset Used
-**TLC Trip Record Data includes pick-up/drop-off dates and times, locations, trip distances, fares, rate types, payment types, and passenger counts.
+##### TLC Trip Record Data includes pick-up/drop-off dates and times, locations, trip distances, fares, rate types, payment types, and passenger counts.
 
 For more information about the dataset:
 1. [Website](https://www.nyc.gov/site/tlc/about/tlc-trip-record-data.page)
