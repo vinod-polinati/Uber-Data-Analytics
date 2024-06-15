@@ -28,11 +28,10 @@ For more information about the dataset:
 
 ## Workflow: Mage -> GCP (BigQuery) -> Looker Studio
 <p float="left">
-  <img src="images/UBER_DE.PNG" width="600" height="400" />
-  <img src="images/UBER_DE2.PNG" width="400" height="400" />
+  <img src="images/UBER_DE.PNG" width="700" height="400" />  <br> <br>
+ 
+  <img src="images/UBER_DE2.PNG" width="700" height="400" />
 </p>
 
 ## Dashboard
 ![Uber Dashboard](Uber_Dashboard-1.png)
-
-View the dashboard [here](https://lookerstudio.google.com/s/iNetptey9RI).
